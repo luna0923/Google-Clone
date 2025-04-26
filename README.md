@@ -27,3 +27,9 @@ Advanced Configuration: Tweak the project setup to your needs.
 
 Deployment: Deploy your app to production with ease.
 
+## License
+
+Google-Clone © 2025 by luna0923 is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+📄 You may view the source code, but **reuse, copying, or modification is strictly prohibited**.
+
