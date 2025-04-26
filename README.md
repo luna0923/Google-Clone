@@ -1,3 +1,5 @@
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 🚀 Project Overview:
 
 This project is built using Create React App, a powerful framework for building React applications with ease. It provides a structured environment for development and optimizes performance for deployment.
