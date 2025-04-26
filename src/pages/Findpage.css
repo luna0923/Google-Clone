@@ -1,0 +1,81 @@
+.findpage_header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    align-items: flex-start;
+    padding: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.findpage_logo {
+    object-fit: contain;
+    height: 50px;
+    margin-right: 50px;
+    }
+
+.findpage_header > .Search > .search_input
+    {
+margin-top: 0;
+width: unset;
+margin: unset;
+max-width: unset;
+}
+
+.findpage_options {
+    display: flex;
+    align-items: center;
+    color: gray;
+   
+}
+.findpage_optionsleft, .findpage_optionsright{ display: flex; }
+.findpage_options a,
+.findpage_optionsright a{
+    text-decoration: none;
+    color: gray;
+}
+.findpage_optionsright{
+    margin-left: 80px;
+
+}
+.findpage_option{
+    display: flex;
+    align-items: center;
+    color: gray;
+    margin-right: 20px;
+}
+.findpage_option a{
+    margin-left: 5px;
+}
+.findpage_result{
+    margin: 40px 0;
+}
+.findpage_resultscount{
+    color:#70757a ;
+    font-size: 14px;
+}
+.findpage_results{
+    max-width: 650px;
+    margin-top: 20px;
+    margin-left: 240px;
+    margin-bottom: 100px;
+}
+.findpage_resultImage{
+    object-fit: contain;
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+.findpage_resultTitle{
+    text-decoration: none;
+}
+.findpage_resultTitle:hover{
+    text-decoration: underline;
+}
+.findpage_resultTitle > h2 {
+    font-weight: 500;
+}
+.findpage_resultSnippet{
+    margin-top:10 px ;
+}
