@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../pages/search.css';
+import '../pages/searchpage.css';
 import SearchIcon from '@mui/icons-material/Search';
 import MicIcon from '@mui/icons-material/Mic';
 import { Button } from '@mui/material';
