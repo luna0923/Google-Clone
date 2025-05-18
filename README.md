@@ -36,9 +36,7 @@ It demonstrates my ability to:
 - **Netlify / Vercel / GitHub Pages** – For live deployment
 
 ---
-🌐 Live Demo
- https://yourusername.github.io/google-clone
- 
+
 📄 License : 
 Google Clone © 2025 by luna0923
 Licensed under the CC BY-NC-ND 4.0 License
