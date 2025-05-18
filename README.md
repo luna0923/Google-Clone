@@ -37,13 +37,6 @@ It demonstrates my ability to:
 
 ---
 
-📄 License : 
-Google Clone © 2025 by luna0923
-Licensed under the CC BY-NC-ND 4.0 License
-
-⚠️ This project is protected. Viewing is allowed, but copying, modifying, or redistributing the code is not permitted without written permission.
-
----
 ## 🛠 Installation
 
 To run this project locally:
@@ -58,3 +51,7 @@ npm install
 
 # Start the development server
 npm start
+
+📄Google Clone © 2025 by luna0923 Licensed [under the CC BY-NC-ND 4.0 License]
+
+⚠️ This project is protected. Viewing is allowed, but copying, modifying, or redistributing the code is not permitted without written permission.
