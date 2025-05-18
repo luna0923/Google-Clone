@@ -1,31 +1,62 @@
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# 🚀 Project Overview
+#  Google Clone
 
-This project is built using **Create React App**, a powerful framework for building React applications with ease. It provides a structured environment for development and optimizes performance for deployment.
+A professional front-end clone of the **Google Search** homepage, built using **React**. This project is designed to showcase my skills as an aspiring front-end developer by recreating one of the most iconic and minimalist user interfaces on the web.
 
-# 🛠 Key Features
+---
 
-- **npm start 🏃‍♂️**: Launches the app in development mode with automatic reloading on changes.
-- **npm test 🧪**: Runs the test suite in interactive mode for continuous testing.
-- **npm run build ⚙️**: Builds the app for production with performance optimizations.
-- **npm run eject 💥**: Provides full control over configurations like Webpack, Babel, and ESLint by ejecting from the default setup.
+## 🚀 Project Overview
 
-# 📚 Learn More
+This Google Clone replicates the core user experience of Google Search, including a responsive layout, search functionality powered by a third-party API, and clean modern design principles.
 
-- [Create React App Docs](https://create-react-app.dev/docs/getting-started/)
-- [React Docs](https://react.dev/)
+It demonstrates my ability to:
+- Build interactive and responsive UIs with React
+- Integrate APIs for real-time data fetching
+- Use modern CSS frameworks for styling
+- Manage routing and UI state
 
-# 🔑 Key Topics
+---
 
-- **Code Splitting**: Improve app load times by splitting code.
-- **Bundle Size Analysis**: Identify and reduce unnecessary app bundle size.
-- **Progressive Web App (PWA)**: Convert your app into a PWA.
-- **Advanced Configuration**: Tweak the project setup to your needs.
-- **Deployment**: Deploy your app to production with ease.
+## 🧩 Features
 
-# 📄 License
+- 🔎 Google-like search input with real-time search results
+- 🌐 Navigation and routing using React Router
+- 💻 Fully responsive and mobile-optimized layout
+- 🎨 Styled with Tailwind CSS for a clean, modern look
+- 🔌 Integrated with external search API (Google Custom Search API or similar)
 
-**Google-Clone © 2025 by luna0923** is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+---
 
-> 📌 You may view the source code, but **reuse, copying, or modification is strictly prohibited**.
+## ⚙️ Tech Stack
+
+- **React.js** – Front-end JavaScript library
+- **React Router** – Client-side routing
+- **Tailwind CSS** – Utility-first CSS framework
+- **Google Custom Search API / RapidAPI** – For fetching search results
+- **Netlify / Vercel / GitHub Pages** – For live deployment
+
+---
+🌐 Live Demo
+ https://yourusername.github.io/google-clone
+ 
+📄 License : 
+Google Clone © 2025 by luna0923
+Licensed under the CC BY-NC-ND 4.0 License
+
+⚠️ This project is protected. Viewing is allowed, but copying, modifying, or redistributing the code is not permitted without written permission.
+
+---
+## 🛠 Installation
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/google-clone.git
+cd google-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
