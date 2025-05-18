@@ -1,11 +1,11 @@
 
-#  Google Clone
+# 🌐Google Clone
 
 A professional front-end clone of the **Google Search** homepage, built using **React**. This project is designed to showcase my skills as an aspiring front-end developer by recreating one of the most iconic and minimalist user interfaces on the web.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This Google Clone replicates the core user experience of Google Search, including a responsive layout, search functionality powered by a third-party API, and clean modern design principles.
 
@@ -19,11 +19,11 @@ It demonstrates my ability to:
 
 ## 🧩 Features
 
-- 🔎 Google-like search input with real-time search results
-- 🌐 Navigation and routing using React Router
-- 💻 Fully responsive and mobile-optimized layout
-- 🎨 Styled with Tailwind CSS for a clean, modern look
-- 🔌 Integrated with external search API (Google Custom Search API or similar)
+-  Google-like search input with real-time search results
+-  Navigation and routing using React Router
+-  Fully responsive and mobile-optimized layout
+-  Styled with Tailwind CSS for a clean, modern look
+-  Integrated with external search API (Google Custom Search API or similar)
 
 ---
 
