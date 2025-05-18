@@ -1,5 +1,5 @@
 import React from 'react';
-import '../pages/Home.css';
+import '../pages/Homepage.css';
 import { Link } from "react-router-dom";
 import AppsIcon from '@mui/icons-material/Apps';
 import { Avatar } from '@mui/material';
