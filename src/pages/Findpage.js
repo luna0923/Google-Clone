@@ -14,7 +14,7 @@ import Usegooglesearch from '../Usegooglesearch';
 
 function Findpage() {
   const [{ term }, dispatch] = useStateValue();
-  const { data } = Usegooglesearch(term); // Corrected this line
+  const { data } = Usegooglesearch(term); 
 
   console.log(data);
 
